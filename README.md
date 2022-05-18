@@ -10,4 +10,4 @@ warning!:\
 \
 If you want to use exe in bin directly, copy level1.txt to "C:/level1.txt".\
 \
-<img src="PVZ.png" alt="drawing"/>\
+<img src="PVZ.png" alt="drawing"/>
